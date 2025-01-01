@@ -4,7 +4,7 @@ SCRIPT_REPO="https://git.savannah.gnu.org/git/libiconv.git"
 SCRIPT_COMMIT="bc17565f9a4caca27161609c526b776287a8270e"
 
 SCRIPT_REPO2="https://git.savannah.gnu.org/git/gnulib.git"
-SCRIPT_COMMIT2="e9c1d94f58eaacee919bb2015da490b980a5eedf"
+SCRIPT_COMMIT2="7b08932179d0d6b017f7df01a2ddf6e096b038e3"
 
 ffbuild_enabled() {
     return 0
