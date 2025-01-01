@@ -1,7 +1,7 @@
 #!/bin/bash
 
 SCRIPT_REPO="https://gitlab.com/libssh/libssh-mirror.git"
-SCRIPT_COMMIT="49b0c859f92bb9474412933e450da26d0410fe08"
+SCRIPT_COMMIT="a15c977cdc3a07c7a1364d4ba40ad16c0c9f7561"
 
 ffbuild_enabled() {
     return 0
