@@ -34,8 +34,8 @@ ffbuild_depends() {
     echo kvazaar
     echo libaribcaption
     echo libass
-    echo libbs2b
     echo libbluray
+    echo libbs2b
     echo libgsm
     echo libjxl
     echo libmp3lame
